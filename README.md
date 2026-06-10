@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![License](https://img.shields.io/badge/Status-Active-success)
+![UI](https://img.shields.io/badge/UI-Cyberpunk-ff00ff)
+
 # SafeSave
 
 Cyberpunk-themed encrypted password manager built with Python, AES encryption, PBKDF2 key derivation, SQLite, and CustomTkinter.
