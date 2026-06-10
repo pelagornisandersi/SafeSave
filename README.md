@@ -34,7 +34,7 @@ Cyberpunk-themed encrypted password manager built with Python, AES encryption, P
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
