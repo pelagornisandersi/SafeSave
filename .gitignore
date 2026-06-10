@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+vault.db
+master.hash
+salt.bin
+secret.key

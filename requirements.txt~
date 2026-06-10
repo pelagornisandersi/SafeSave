@@ -1,0 +1,8 @@
+bcrypt==5.0.0
+cffi==2.0.0
+cryptography==48.0.1
+customtkinter==5.2.2
+darkdetect==0.8.0
+packaging==26.2
+pycparser==3.0
+pyperclip==1.11.0
